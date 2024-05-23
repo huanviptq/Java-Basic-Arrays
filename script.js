@@ -58,7 +58,7 @@
 //   return max;
 // };
 
-// const elements = "1, 2, 3, 4, 5, 6, 7, 8";
+// const elements = prompt("Enter number seperated by spaces or commas");
 // console.log(maxElement(elements));
 
 //-------------------------------------------------------------------------------------------------------
